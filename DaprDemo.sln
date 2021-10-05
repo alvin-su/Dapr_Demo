@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceA", "ServiceA\Servic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceB", "ServiceB\ServiceB.csproj", "{504745BB-605C-41F7-93C3-B696EA299FA0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServiceInvoke", "ServiceInvoke", "{D08345F5-7B20-4580-9350-82BF27690618}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServiceInvoke", "ServiceInvoke", "{2E0973C0-63C8-4888-B2B4-718480481EC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,8 +28,8 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{7BF70B0D-CAED-42D9-9C07-83FA1BDC065F} = {D08345F5-7B20-4580-9350-82BF27690618}
-		{504745BB-605C-41F7-93C3-B696EA299FA0} = {D08345F5-7B20-4580-9350-82BF27690618}
+		{7BF70B0D-CAED-42D9-9C07-83FA1BDC065F} = {2E0973C0-63C8-4888-B2B4-718480481EC2}
+		{504745BB-605C-41F7-93C3-B696EA299FA0} = {2E0973C0-63C8-4888-B2B4-718480481EC2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FA439557-EE88-4FDA-B5E1-4A1AFD01F67B}
